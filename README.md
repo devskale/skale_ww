@@ -1,3 +1,3 @@
 Dateien von KI Wiener Wohnen
 
-[markmap.html](markmap.html)
+[markmap.html](https://devskale.github.io/skale_ww/markmap.html)
