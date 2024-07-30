@@ -3,7 +3,7 @@ Dateien von KI Wiener Wohnen
 Per KI Erstellte Markmaps
 Prozess
 1 Prompterstellung zur Datenextraktion aus PDF Dokument mit GPT4
-2 Erzeugung von markdown Format
+2 Erzeugung einer digrammstruktur in textuellem markdown Format
 3 Programmatische erzeugung eines HTML Diagramms
 
 Die mit dem Workflow erstellten Maps:
