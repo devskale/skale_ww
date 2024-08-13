@@ -1,4 +1,4 @@
-# WW Toolbox
+# WWAP Toolbox
 
 Toolbox für Ersteller von Ausschreibungen.
 
@@ -10,11 +10,16 @@ Der Ausschreibungs Workflow besteht aus 4 Schritten:
 3. Ausschreibung bewerten
 4. Ausschreibung abschließen
 
+![Ausschreibungsprozess](images/asp.png)
+
+
+## PDF zu Markdown
+Viele Unterlagen im Ausschreibungsprozess liegen als pdf dokumente vor.
+pdf2markdown
 
 
 
-Dateien von KI Wiener Wohnen
-
+## Visualisierung mit Markmaps
 Per KI Erstellte Markmaps
 Prozess
 1 Prompterstellung zur Datenextraktion aus PDF Dokument mit GPT4
