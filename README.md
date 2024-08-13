@@ -1,3 +1,18 @@
+# WW Toolbox
+
+Toolbox für Ersteller von Ausschreibungen.
+
+
+## Der Ausschreibungsprozess
+Der Ausschreibungs Workflow besteht aus 4 Schritten:
+1. Ausschreibung erstellen
+2. Ausschreibung veröffentlichen
+3. Ausschreibung bewerten
+4. Ausschreibung abschließen
+
+
+
+
 Dateien von KI Wiener Wohnen
 
 Per KI Erstellte Markmaps
